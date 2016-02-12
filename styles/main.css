@@ -76,4 +76,37 @@ table {
 
 .content{
 	clear:both;
+	margin:auto;
+	margin-top: 182px;
+	width:100%;
 }
+
+.content img{
+	margin:auto;
+	display:block;
+}
+
+.search
+{
+	margin:auto;
+	margin-top:30px;
+	display:block;
+}
+
+.search
+{
+	-mos-box-sizing:border-box;
+	box-sizing:border-box;
+	margin:auto;
+	vertical-align:center;
+	margin-top:35px;
+	width:42%;
+	border: 1px solid #4285F4;
+	padding:20px 40px 20px 10px;
+	font-size:1.2em;
+	height:1.6em;
+	background-image: url('../img/speaker.png');
+	background-repeat: no-repeat;
+	background-position:98% 48%;
+}
+
