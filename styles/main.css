@@ -60,4 +60,16 @@ table {
 .nav li{
 	display:inline-block;
 	vertical-align: middle;
+	padding-left:17px;
+}
+
+.nav a{
+	color:gray;
+	text-decoration: none;
+	font-size:15px;
+}
+
+.nav li:hover a{
+	color:black;
+	background-color: white;
 }
